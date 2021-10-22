@@ -1,0 +1,9 @@
+[package]
+authors = ["inkhare <iapricot@foxmail.com>"]
+description = "A iptables bindings for Rust."
+edition = "2018"
+keywords = ["iptables", "netfilter", "bindings"]
+license = "MIT/Apache-2.0"
+name = "rust-iptables"
+readme = "README.md"
+version = "0.0.1"
