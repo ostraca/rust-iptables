@@ -3,10 +3,11 @@ authors = ["inkhare <iapricot@foxmail.com>"]
 description = "A iptables bindings for Rust."
 edition = "2018"
 keywords = ["iptables", "netfilter", "bindings"]
-license = "MIT/Apache-2.0"
+license = "MIT OR Apache-2.0"
 name = "rust-iptables"
 readme = "README.md"
 version = "0.0.2"
+repository = "https://github.com/ostraca/rust-iptables"
 
 [dependencies]
 lazy_static = "1.4"
